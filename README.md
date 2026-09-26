@@ -49,8 +49,9 @@ Each Movie stores:
 5. Open `index.html` locally or deploy the project to Netlify.
 
 ## Demo
+https://github.com/user-attachments/assets/96ba580a-69d3-42d9-ab01-f9f7668f4cfc
 
-YouTube demo: [Add unlisted YouTube link]
+
 
 ## Deployed Application
 
