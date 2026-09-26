@@ -54,4 +54,4 @@ YouTube demo: [Add unlisted YouTube link]
 
 ## Deployed Application
 
-Netlify URL: https://6ab83491d79aa554143aadd8--singular-frangipane-bfad60.netlify.app/
+Netlify URL: https://boneyardmovies.netlify.app
