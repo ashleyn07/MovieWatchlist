@@ -1,6 +1,6 @@
 # MovieWatchlist
 
-MovieWatchlist is a simple web application built for the Engineering Design 2 "Build Software with AI" assignment. It lets users create and manage a personal movie watchlist.
+MovieWatchlist is a simple web application that lets users create and manage a personal movie watchlist.
 
 ## Features
 
@@ -54,4 +54,4 @@ YouTube demo: [Add unlisted YouTube link]
 
 ## Deployed Application
 
-Netlify URL: [Add deployed application link]
+Netlify URL: https://6ab83491d79aa554143aadd8--singular-frangipane-bfad60.netlify.app/
